@@ -5,7 +5,7 @@ title: <strong>Emily</strong> Ahn
 description: <a href="https://linguistics.washington.edu/">Linguistics @ UW</a>. Graduate student. Language enthusiast.
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   address: >
     <p>eahn @ uw . edu</p>
@@ -14,11 +14,9 @@ news: true
 social: true
 ---
 
-I am a first-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/). I recently finished a Masters at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). My work is mainly supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I am a first-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/). I recently finished a Masters at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). Before any graduate studies, I spent 1 year at SRI International, working in their Speech Technology and Research Lab. Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science.
 
-Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-switching, and linguistic typology. My recent research involves investigating entrainment in code-switched dialogues.
-
-Before any graduate studies, I spent 1 year at SRI International, working in their Speech Technology and Research Lab. Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science.
+Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-switching, and linguistic typology. My recent research involves investigating entrainment in code-switched dialogues, and I am supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 When I'm not working, I like to cook, dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport.
 
