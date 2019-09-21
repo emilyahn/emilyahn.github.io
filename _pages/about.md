@@ -2,25 +2,25 @@
 layout: about
 permalink: /
 title: <strong>Emily</strong> Ahn
-description: <a href="https://www.lti.cs.cmu.edu/">LTI @ CMU</a>. Graduate student. Language enthusiast.
+description: <a href="https://linguistics.washington.edu/">Linguistics @ UW</a>. Graduate student. Language enthusiast.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>eahn1 @ cs . cmu . edu</p>
+    <p>eahn @ uw . edu</p>
 
 news: true
 social: true
 ---
 
-I am a first-year Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). My current research involves investigating entrainment in code-mixed dialogues, and I am being co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). My work is mainly supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I am a first-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/). I recently finished a Masters at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). My work is mainly supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
-Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-mixing, and linguistics (specifically phonology and morphology).
+Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-switching, and linguistic typology. My recent research involves investigating entrainment in code-switched dialogues.
 
-Recently, I was at SRI International, working in their Speech Technology and Research Lab. Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science. My [Honors Thesis](https://github.com/wellesleynlp/emilythesis) involved using machine learning to classify foreign accents of non-native English speech.
+Before any graduate studies, I spent 1 year at SRI International, working in their Speech Technology and Research Lab. Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science.
 
-When I'm not working, I like to dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport.
+When I'm not working, I like to cook, dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport.
 
 <div class="img_row">
     <img class="col one first" src="{{ site.baseurl }}/assets/img/korea_coffee.jpg">

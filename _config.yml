@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Emily Ahn
-email: eahn1@cs.cmu.edu
+email: eahn@uw.edu
 description: > # this means to ignore newlines until "url:"
   Language enthusiast.
-footer_text: 
+footer_text:
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 23 Feb 2018 # leave blank if you don't want to display last updated
+last_updated: 20 Sep 2019 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -21,8 +21,8 @@ twitter_username: # put your twitter username
 linkedin_username: emily-ahn-50205472 # put your linkedin username
 scholar_authorid: 7irdsRUAAAAJ # put your google scholar author id
 contact_note: >
-  
-  
+
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
