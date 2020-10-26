@@ -1,4 +1,4 @@
-# Emily Ahn
+# Emily P. Ahn
 
 Personal website. PhD Student in Linguistics at the University of Washington.
 

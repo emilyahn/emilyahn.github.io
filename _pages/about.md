@@ -18,12 +18,13 @@ I am a second-year PhD student in Computational Linguistics at the [University o
 
 Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native speech usage, code-switching, and linguistic typology. My recent research involves investigating accommodation in code-switched dialogues, and I am supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). I encourage students to contact me with questions about Computational Linguistics, NLP, graduate school, applications, etc---just email me!
 
-When I'm not working, I like to cook, dance, take photos of handmade [felted animals](https://www.instagram.com/lintbuddies/), and read the latest novels by my talented friend, [Valentino Mori](https://valentinomori.weebly.com/). Once upon a time, I did taekwondo and rowing for sport.
+When I'm not working, I like to cook, dance, make/photograph handmade [felted animals](https://www.instagram.com/lintbuddies/), learn languages, and share meals and conversations with friends. Once upon a time, I did taekwondo and rowing for sport.
 
 <div class="img_row">
-    <img class="col one first" src="{{ site.baseurl }}/assets/img/korea_coffee.jpg">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg">
-    <img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg">
+    <a href="https://www.instagram.com/lintbuddies/">
+    <img class="col one first" src="{{ site.baseurl }}/assets/img/korea_coffee.jpg"></a>
+    <a href="https://www.instagram.com/lintbuddies/"><img class="col one" src="{{ site.baseurl }}/assets/img/yamaha.jpg"></a>
+    <a href="https://www.instagram.com/lintbuddies/"><img class="col one last" src="{{ site.baseurl }}/assets/img/phipps_eng.jpg"></a>
 </div>
 
 <!-- <img src="assets/img/cmu_lti.jpg" height="170">
