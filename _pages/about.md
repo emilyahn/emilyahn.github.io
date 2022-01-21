@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I am a third-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/) advised by [Gina-Anne Levow](https://faculty.washington.edu/levow/). 
+I am a third-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/) advised by [Gina-Anne Levow](https://faculty.washington.edu/levow/), [Richard Wright](https://depts.washington.edu/phonlab/rawright.php), and [Eleanor Chodroff](https://www.eleanorchodroff.com/). 
 Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native language usage, code-switching, and linguistic typology. 
 The goal of my work is to enhance the accessibility of modern NLP and speech technologies to diverse communities.
 <!-- , specifically in  -->

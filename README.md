@@ -10,6 +10,11 @@ Personal website. PhD Student in Linguistics at the University of Washington.
 #### Notes to self:
 
 * Edit main about page: `_pages/about.md`
+* Add updated CV to `assets/pdf/`
+* Change filename of CV in `_pages/teaching.md`
+* Change filename of CV in `_includes/header.html`
+* Add news: create new file in `_news/`
+* Change `last_updated` field in `_config.yml`
 * To run:
 `bundle exec jekyll serve`
 
