@@ -15,9 +15,14 @@ Personal website. PhD Student in Linguistics at the University of Washington.
 * Change filename of CV in `_includes/header.html`
 * Add news: create new file in `_news/`
 * Change `last_updated` field in `_config.yml`
+* Add publications: `_bibliography/papers.bib`
+* Add co-authors' websites: `_data/coauthors.yml`
+* Add new year to publications in `_pages/publications.md`
 * To run:
 `bundle exec jekyll serve`
 
 commit changes
 
 `./bin/deploy --user`
+
+git push
