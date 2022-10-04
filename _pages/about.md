@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I am a third-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/) advised by [Gina-Anne Levow](https://faculty.washington.edu/levow/), [Richard Wright](https://depts.washington.edu/phonlab/rawright.php), and [Eleanor Chodroff](https://www.eleanorchodroff.com/). 
+I am a fourth-year PhD student in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/) advised by [Gina-Anne Levow](https://faculty.washington.edu/levow/), [Richard Wright](https://depts.washington.edu/phonlab/rawright.php), and [Eleanor Chodroff](https://www.eleanorchodroff.com/). 
 Generally, I am interested in multilingual NLP and speech processing, low-resource language technology, non-native language usage, code-switching, and linguistic typology. 
 The goal of my work is to enhance the accessibility of modern NLP and speech technologies to diverse communities.
 <!-- , specifically in  -->
@@ -32,7 +32,7 @@ Before any graduate studies, I spent 1 year at SRI International, working in the
 Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science.
 I encourage students to contact me with questions about Computational Linguistics, NLP, graduate school, applications, etc---just email me!
 
-When I'm not working, I like to crochet, walk, make/photograph handmade [felted animals](https://www.instagram.com/lintbuddies/), listen to jazz, and most of all share meals and conversations with friends. Once upon a time, I did taekwondo and rowing for sport.
+When I'm not working, I like to crochet, play drums, exercise, make/photograph handmade [felted animals](https://www.instagram.com/lintbuddies/), listen to jazz, and most of all share meals and conversations with friends. Once upon a time, I did taekwondo and rowing for sport.
 
 <div class="img_row">
     <a href="https://www.instagram.com/lintbuddies/">
