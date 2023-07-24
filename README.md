@@ -17,6 +17,7 @@ Personal website. PhD Student in Linguistics at the University of Washington.
 * Change `last_updated` field in `_config.yml`
 * Add new year to publications in `_pages/publications.md`
 * Add publications: `_bibliography/papers.bib`
+* Change profile picture in `_pages/about.md`
 * Add co-authors' websites: `_data/coauthors.yml`
 * To run:
 `bundle exec jekyll serve`
