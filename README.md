@@ -23,8 +23,11 @@ Personal website. PhD Student in Linguistics at the University of Washington.
 `bundle exec jekyll serve`
 
 git add all
+`git add -A`
 commit changes
+`git commit -m {message}`
 
 `./bin/deploy --user`
 
 git push
+`git push`
