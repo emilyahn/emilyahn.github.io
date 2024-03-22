@@ -23,7 +23,7 @@ By understanding how sounds and sound systems systematically vary in the increas
 Recently, I have been analyzing the use of phonological categories in cross-lingual phonemic forced alignment. -->
 
 Through the support of the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), some of my past projects include analyzing acoustic word embeddings of multilingual named entities, investigating accommodation in code-switched dialogues, and detecting microaggressions in social media text.
-I have completed my Masters at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/). 
+I have completed my Masters at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was co-advised by [Alan Black](http://www.cs.cmu.edu/~awb/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). 
 Before any graduate studies, I spent 1 year at SRI International, working in their Speech Technology and Research Lab. 
 Prior to that, I graduated from Wellesley College in 2016, where I studied Cognitive & Linguistic Sciences with a concentration in Computer Science.
 I encourage students to contact me with questions about Computational Linguistics, NLP, graduate school, applications, etc---just email me!
