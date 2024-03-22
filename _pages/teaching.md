@@ -5,5 +5,5 @@ title: teaching
 description: Teaching is learning.
 ---
 
-See [**vitae**](assets/pdf/Emily_Ahn_CV_240320.pdf).
+See [**vitae**](assets/pdf/Emily_Ahn_CV_240322.pdf).
 
