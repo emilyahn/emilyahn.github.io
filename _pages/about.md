@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I am a fifth-year PhD candidate in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/) advised by [Gina-Anne Levow](https://faculty.washington.edu/levow/), [Richard Wright](https://depts.washington.edu/phonlab/rawright.php), and [Eleanor Chodroff](https://www.eleanorchodroff.com/). 
+I am a final-year PhD candidate in Computational Linguistics at the [University of Washington](https://linguistics.washington.edu/) advised by [Gina-Anne Levow](https://faculty.washington.edu/levow/), [Richard Wright](https://depts.washington.edu/phonlab/rawright.php), and [Eleanor Chodroff](https://www.eleanorchodroff.com/). 
 My current work has focused on analyzing aspects of the corpus phonetics pipeline to enable the study of multilingual and low-resourced language varieties.
 A broad goal of my work is to enhance the accessibility of modern NLP and speech technologies to diverse communities.
 
